@@ -2,7 +2,11 @@
 
 Animation for flipping cards with pure CSS
 
-## SCreen recording:
+## Screen recording:
+
+
+https://user-images.githubusercontent.com/88823568/147243787-4c4265f8-04bf-4cd7-9748-7cce33f15c65.mov
+
 
 ## Acknowledgment
 
